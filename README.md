@@ -6,6 +6,12 @@ Developer: Sarthak Singh
 
 ---
 
+## 🎮 **PLAY NOW** ⚡
+### [🔗 Click here to play the game live!](https://rock-paper-scissor-topaz-one.vercel.app/)
+No downloads needed. Play instantly in your browser!
+
+---
+
 ## 🚀 Key Features
 
 * **Cyber Neon Aesthetics**: Curated color palettes with a premium glassmorphic interface, CRT scanlines, matrix text glitches, and pulsing neon glows.
