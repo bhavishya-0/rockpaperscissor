@@ -2,7 +2,7 @@
 
 A futuristic, high-tech, responsive version of the classic Rock Paper Scissors game styled with a **Cyber Neon** theme. Play with custom rule sets (Unlimited, Best of 3, Best of 5), track detailed telemetry statistics, and hear dynamically synthesized audio.
 
-Developer: Bhavishya Soni
+Developer: Chinmay Dixit
 
 ---
 
