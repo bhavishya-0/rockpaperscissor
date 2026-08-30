@@ -2,13 +2,16 @@
 
 A futuristic, high-tech, responsive version of the classic Rock Paper Scissors game styled with a **Cyber Neon** theme. Play with custom rule sets (Unlimited, Best of 3, Best of 5), track detailed telemetry statistics, and hear dynamically synthesized audio.
 
-Developer: Chinmay Dixit
+Developer: Bhavishya Soni
 
 ---
 
 ## 🎮 **PLAY NOW** ⚡
-### [🔗 Click here to play the game live!](https://rock-paper-scissor-topaz-one.vercel.app/)
+### [🔗 Click here to play the game live!](https://chinmaydixit7.github.io/rockpaperscissor/)
 No downloads needed. Play instantly in your browser!
+
+### GitHub Pages deployment
+This project is configured to deploy as a static site on GitHub Pages using a GitHub Actions workflow. After pushing to the main branch, GitHub will build and publish the app automatically.
 
 ---
 
@@ -70,3 +73,13 @@ Since this is a client-side frontend project, you can run it directly:
    python -m http.server 8000
    ```
 3. Open your browser and navigate to `http://localhost:8000` (or the port specified by your server).
+
+## 🌐 Deploy on GitHub Pages
+
+1. Push this project to your GitHub repository.
+2. Open the repository on GitHub.
+3. Go to Settings → Pages.
+4. Under "Build and deployment", select "GitHub Actions".
+5. The workflow in `.github/workflows/deploy.yml` will run automatically on every push to `main`.
+6. Your site will be live at:
+   `https://chinmaydixit7.github.io/rockpaperscissor/`
