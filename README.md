@@ -7,7 +7,7 @@ Developer: Bhavishya Soni
 ---
 
 ## 🎮 **PLAY NOW** ⚡
-### [🔗 Click here to play the game live!](https://github.com/bhavishya-0/rockpaperscissor)
+### [🔗 Click here to play the game live!](https://rock-paper-scissor-topaz-one.vercel.app/)
 No downloads needed. Play instantly in your browser!
 
 ### GitHub Pages deployment
