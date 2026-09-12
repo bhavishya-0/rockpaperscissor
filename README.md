@@ -2,12 +2,12 @@
 
 A futuristic, high-tech, responsive version of the classic Rock Paper Scissors game styled with a **Cyber Neon** theme. Play with custom rule sets (Unlimited, Best of 3, Best of 5), track detailed telemetry statistics, and hear dynamically synthesized audio.
 
-Developer: Chinmay Dixit
+Developer: Bhavishya Soni
 
 ---
 
 ## 🎮 **PLAY NOW** ⚡
-### [🔗 Click here to play the game live!](https://chinmaydixit7.github.io/rockpaperscissor/)
+### [🔗 Click here to play the game live!](https://github.com/bhavishya-0/rockpaperscissor)
 No downloads needed. Play instantly in your browser!
 
 ### GitHub Pages deployment
@@ -82,4 +82,4 @@ Since this is a client-side frontend project, you can run it directly:
 4. Under "Build and deployment", select "GitHub Actions".
 5. The workflow in `.github/workflows/deploy.yml` will run automatically on every push to `main`.
 6. Your site will be live at:
-   `https://chinmaydixit7.github.io/rockpaperscissor/`
+   `https://github.com/bhavishya-0/rockpaperscissor`
