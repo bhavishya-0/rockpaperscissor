@@ -2,7 +2,7 @@
  * @fileoverview C++ Game Prediction Engine for Cyber Rock Paper Scissors.
  * Uses a Trie data structure to implement a sliding-window N-Gram prediction algorithm.
  * Exposes WebAssembly bindings via Emscripten.
- * @author Sarthak Singh
+ * @author Bhavishya Soni
  */
 
 #include <string>
